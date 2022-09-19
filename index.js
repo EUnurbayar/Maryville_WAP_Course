@@ -21,11 +21,8 @@ function prompt2() {
 const numBelow100 = Math.floor(Math.random()*100);
     console.log(numBelow100);
 function prompt1() {
-	
 	if (numBelow100>50 ){
-		
 		return "That's a big number!";
-	
 	}
 }
 
